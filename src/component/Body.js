@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { IoIosSearch } from "react-icons/io";
-import { MapPin, Navigation, Car, Search, X } from "lucide-react";
+import { Navigation, Car } from "lucide-react";
 
 const RealEstateSearch = () => {
   const [isDialogOpen, setIsDialogOpen] = useState(false);
@@ -171,35 +171,3 @@ const RealEstateSearch = () => {
 };
 
 export default RealEstateSearch;
-
-// <div className="space-y-3">
-//                       <div className="flex items-center">
-//                         <span className="ml-2">Current Location</span>
-//                       </div>
-//                       <div className="flex items-center">
-//                         <span className="ml-2">Search by commute time</span>
-//                       </div>
-//                     </div>
-
-//                     {/* Recent Searches */}
-//                     <div className="mt-6">
-//                       <h3 className="font-semibold text-gray-700 mb-2">
-//                         Recent Searches
-//                       </h3>
-//                       <ul className="space-y-2">
-//                         <li className="flex items-center">
-//                           <div className="ml-2">
-//                             <h2>San Francisco, CA</h2>
-//                             <p className="text-sm text-gray-500">
-//                               City • Single Family Home
-//                             </p>
-//                           </div>
-//                         </li>
-//                         <li className="flex items-center">
-//                           <div className="ml-2">
-//                             <p>Calcutta, IN</p>
-//                             <p className="text-sm text-gray-500">City</p>
-//                           </div>
-//                         </li>
-//                       </ul>
-//                     </div>

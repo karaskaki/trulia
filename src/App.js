@@ -1,5 +1,7 @@
 import "./App.css";
 import Body from "./component/Body";
+import Explore from "./component/Explore";
+import Homes from "./component/Homes";
 import Navbar from "./component/navbar";
 
 function App() {
@@ -11,8 +13,13 @@ function App() {
         <Body />
       </div>
 
-      <div></div>
-      <div></div>
+      <div>
+        <Explore />
+      </div>
+
+      <div>
+        <Homes />
+      </div>
       <div></div>
     </div>
   );
