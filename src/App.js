@@ -1,11 +1,14 @@
 import "./App.css";
+import Body from "./component/Body";
+import Navbar from "./component/navbar";
 
 function App() {
   return (
     <div>
       {/* Navbar */}
       <div>
-        <h1>trulia</h1>
+        <Navbar />
+        <Body />
       </div>
 
       <div></div>
