@@ -1,6 +1,7 @@
 import "./App.css";
 import Body from "./component/Body";
 import Explore from "./component/Explore";
+import Help from "./component/Help";
 import Homes from "./component/Homes";
 import Navbar from "./component/navbar";
 
@@ -20,7 +21,9 @@ function App() {
       <div>
         <Homes />
       </div>
-      <div></div>
+      <div>
+        <Help />
+      </div>
     </div>
   );
 }

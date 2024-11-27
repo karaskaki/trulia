@@ -102,6 +102,7 @@ export const homes = [
     sqft: 1260,
     address: "367 Howth St, San Francisco, CA 94112",
     img: "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "2,195,000",
@@ -110,6 +111,7 @@ export const homes = [
     sqft: 2078,
     address: "2027 18th Ave, San Francisco, CA 94116",
     img: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW - 18 HRS AGO",
   },
   {
     price: "1,545,000",
@@ -118,6 +120,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "1,995,210",
@@ -126,6 +129,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 1 Day Ago",
   },
   {
     price: "1,995,000",
@@ -134,6 +138,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 1 Day Ago",
   },
   {
     price: "2,995,000",
@@ -142,6 +147,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 2 Day Ago",
   },
   {
     price: "1,955,000",
@@ -150,6 +156,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 2 Day Ago",
   },
   {
     price: "1,000,000",
@@ -158,6 +165,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 2 Day Ago",
   },
   {
     price: "1,995,000",
@@ -166,6 +174,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW, 2 Day Ago",
   },
   {
     price: "1,049,000",
@@ -174,6 +183,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "1,300,000",
@@ -182,6 +192,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "1,225,000",
@@ -190,6 +201,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "898,000",
@@ -198,6 +210,7 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
   {
     price: "925,000",
@@ -206,5 +219,6 @@ export const homes = [
     sqft: 1207,
     address: "288 Pacific Ave #3A, San Francisco, CA 94111",
     img: "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress&cs=tinysrgb&w=600",
+    opening: "NEW OPEN SAT, 1-3PM",
   },
 ];
